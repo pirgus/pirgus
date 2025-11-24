@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! My name is **Jaqueline Cavaller Faino**, I am a Computer Scientist and a current Master’s student in Computer Science! 🎓
+Hi there! My name is **Jaqueline Cavaller Faino**, I am a Computer Scientist and a Master’s student in Computer Science! 🎓
 
 I am passionate about **low-level programming** with **C and C++**, especially when applied to **robotics** and **Artificial Intelligence/Combinatorial Optimization**. 💡🤖
 
